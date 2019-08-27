@@ -10,7 +10,7 @@ branch == 'master' OR tag =~ '^v1\.'
 Currently you can use Conditions to specify when a block should and should not
 run, with more applications coming soon.
 
-- [Formal language definition](#Formal-language-definition)
+- [Formal language definition](#formal-language-definition)
 - [Usage examples](#usage-examples)
 
 ## Formal language definition
